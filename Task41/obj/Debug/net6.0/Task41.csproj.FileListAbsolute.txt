@@ -1,0 +1,15 @@
+C:\Users\bourn\Desktop\Основы C#\HomeWork6\Task41\bin\Debug\net6.0\Task41.exe
+C:\Users\bourn\Desktop\Основы C#\HomeWork6\Task41\bin\Debug\net6.0\Task41.deps.json
+C:\Users\bourn\Desktop\Основы C#\HomeWork6\Task41\bin\Debug\net6.0\Task41.runtimeconfig.json
+C:\Users\bourn\Desktop\Основы C#\HomeWork6\Task41\bin\Debug\net6.0\Task41.dll
+C:\Users\bourn\Desktop\Основы C#\HomeWork6\Task41\bin\Debug\net6.0\Task41.pdb
+C:\Users\bourn\Desktop\Основы C#\HomeWork6\Task41\obj\Debug\net6.0\Task41.csproj.AssemblyReference.cache
+C:\Users\bourn\Desktop\Основы C#\HomeWork6\Task41\obj\Debug\net6.0\Task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bourn\Desktop\Основы C#\HomeWork6\Task41\obj\Debug\net6.0\Task41.AssemblyInfoInputs.cache
+C:\Users\bourn\Desktop\Основы C#\HomeWork6\Task41\obj\Debug\net6.0\Task41.AssemblyInfo.cs
+C:\Users\bourn\Desktop\Основы C#\HomeWork6\Task41\obj\Debug\net6.0\Task41.csproj.CoreCompileInputs.cache
+C:\Users\bourn\Desktop\Основы C#\HomeWork6\Task41\obj\Debug\net6.0\Task41.dll
+C:\Users\bourn\Desktop\Основы C#\HomeWork6\Task41\obj\Debug\net6.0\refint\Task41.dll
+C:\Users\bourn\Desktop\Основы C#\HomeWork6\Task41\obj\Debug\net6.0\Task41.pdb
+C:\Users\bourn\Desktop\Основы C#\HomeWork6\Task41\obj\Debug\net6.0\Task41.genruntimeconfig.cache
+C:\Users\bourn\Desktop\Основы C#\HomeWork6\Task41\obj\Debug\net6.0\ref\Task41.dll
